@@ -7,7 +7,7 @@ import Carousel from './components/CarouselProjects/index'
 import ShowTecnologias from './components/Tecnologias'
 import ContactForm from './components/Form'
 import HeaderTelaResponsiva from './components/NavBar-Responsivo'
-import Pdf from './assets/curriculo.pdf'
+import Pdf from './assets/TIAGO BARBOSA.pdf'
 
 function App() {
   return (
@@ -40,7 +40,7 @@ function App() {
             Tiago Barbosa
           </C.TextName>
           <div className='box-textAnimation'>
-            <C.TextAnimation>Desenvolvedor Front-End</C.TextAnimation>
+            <C.TextAnimation>Desenvolvedor Front-End !</C.TextAnimation>
           </div>
 
           <C.Text width='130px' size='18px'>

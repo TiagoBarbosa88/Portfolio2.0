@@ -34,10 +34,10 @@ export const Link1 = styled.a`
   width: 51px;
   border-radius: 14px;
   transition: 0.5s;
-  background-color: ${(props) => (props.isActive ? "#201f37" : "none")};
+  background-color: ${(props) => (props.isActive ? "#52525b" : "none")};
 
   &:hover {
-    background-color: #201f37;
+    background-color: #5a849f;
   }
 `
 
@@ -52,7 +52,7 @@ export const Link2 = styled.a`
   background-color: ${(props) => (props.isActive ? "#201f37" : "none")};
 
   &:hover {
-    background-color: #201f37;
+    background-color: #5a849f;
   }
 `
 
@@ -67,7 +67,7 @@ export const Link3 = styled.a`
   background-color: ${(props) => (props.isActive ? "#201f37" : "none")};
 
   &:hover {
-    background-color: #201f37;
+    background-color: #5a849f;
   }
 `
 
@@ -82,7 +82,7 @@ export const Link4 = styled.a`
   background-color: ${(props) => (props.isActive ? "#201f37" : "none")};
 
   &:hover {
-    background-color: #201f37;
+    background-color: #5a849f;
   }
 `
 

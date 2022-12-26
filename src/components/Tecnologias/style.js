@@ -1,5 +1,7 @@
 import styled from "styled-components"
 
+import { DiGithubAlt } from "react-icons/di";
+import { DiAngularSimple } from "react-icons/di";
 import { GrReactjs } from "react-icons/gr"
 import { FaHtml5 } from "react-icons/fa"
 import { TiCss3 } from "react-icons/ti"
@@ -123,6 +125,13 @@ export const IconReact = styled(GrReactjs)`
   color: #00bfff;
 `
 
+export const IconAngular = styled(DiAngularSimple)`
+  width: 53px;
+  height: 53px;
+  color: red;
+`
+
+
 export const IconNode = styled(FaNodeJs)`
   width: 53px;
   height: 53px;
@@ -145,4 +154,10 @@ export const IconGit = styled(FaGitAlt)`
   width: 53px;
   height: 53px;
   color: #e44c30;
+`
+
+export const IconGithub = styled(DiGithubAlt)`
+  width: 53px;
+  height: 53px;
+  color: #000;
 `

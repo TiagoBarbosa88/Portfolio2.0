@@ -1,6 +1,6 @@
 import React from 'react'
 
-import Foto from './assets/profile.png'
+import Foto from './assets/profile-pic.png'
 import * as C from './styles/styles'
 import NavBar from './components/NavBar/index'
 import Carousel from './components/CarouselProjects/index'

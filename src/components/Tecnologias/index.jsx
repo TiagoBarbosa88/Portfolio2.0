@@ -55,7 +55,7 @@ const ShowTecnologias = () => {
           </C.BoxSkills>
 
           <C.BoxSkills>
-            <C.IconReact />
+            <C.IconAngular />
             <C.P>ANGULAR</C.P>
           </C.BoxSkills>
 
@@ -63,11 +63,19 @@ const ShowTecnologias = () => {
             <C.IconNode />
             <C.P>NODE</C.P>
           </C.BoxSkills>
+          </div>
+          <div data-aos="fade-up"  className="positionDiv2">
 
           <C.BoxSkills>
             <C.IconGit />
             <C.P>GIT</C.P>
           </C.BoxSkills>
+
+          <C.BoxSkills>
+            <C.IconGithub />
+            <C.P>GITHUB</C.P>
+          </C.BoxSkills>
+
         </div>
         <div data-aos="fade-up">
           <C.Services>

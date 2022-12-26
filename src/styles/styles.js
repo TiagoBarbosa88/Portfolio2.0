@@ -34,7 +34,7 @@ export const Container = styled.div`
   background-color: #1a1c1d;
   min-height: 100vh;
   .foto {
-    border-radius: 23%;
+    border-radius: 50%;
     width: 340px;
     position: relative;
     bottom: 20px;
@@ -148,7 +148,7 @@ export const Footer = styled.footer`
   width: 100%;
   padding: 20px;
   height: 120px;
-  background-color: #6cb4df;
+  background-color: #5fa8d2;
   transition: 0.9s;
 
 `
@@ -177,6 +177,7 @@ export const LinksFooter = styled.div`
 export const BordaImg = styled.div`
   border-radius: 23%;
   border: 1px solid #00bfff;
+  border-radius: 50%;
   margin: 45px 0;
   background: transparent;
 `
@@ -275,7 +276,7 @@ export const ButtonCv = styled.a`
   justify-content: center;
   gap: 7px;
   padding: 9px;
-  background-color: #6cb4df;
+  background-color: #5fa8d2;
   border-radius: 2px;
   border: none;
   cursor: pointer;
@@ -290,27 +291,3 @@ export const ButtonCv = styled.a`
   }
 `
 
-// export const Contact = styled.a`
-
-//     display: flex;
-//     align-items:center;
-//     gap:7px;
-//     margin-top: 9px;
-//     border: none;
-//     border-radius: 6px;
-//     color: #01febc;
-//     font-weight: 600;
-//     font-size: 20px;
-//     text-decoration: none;
-
-//     &:hover {
-//         color: #ececec;
-//     }
-// `
-
-// export const Arrow = styled(BiArrowBack)`
-//     transform: rotateY(180deg);
-//     width: 30px;
-//     height: 30px;
-//     position: relative;
-// `

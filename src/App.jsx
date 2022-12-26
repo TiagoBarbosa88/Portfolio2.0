@@ -48,8 +48,7 @@ function App() {
             Iniciei na programação em março de 2020 por meio da faculdade Estácio de Sá,
             em um curso tecnológico FullStack de Análise e Desenvolvimento de Sistemas. 
             No momento estou focando no desenvolvimento Front-end, estudando React,
-            Angular, Context Api, aprimorando minhas
-            habilidades com javaScript e começando os estudos em typeScript.
+            Angular, aprimorando minhas habilidades com javaScript e começando os estudos em typeScript.
           </C.Text>
           <C.Div>
             <C.ButtonCv href={Pdf} download={Pdf} type='application/pdf'>

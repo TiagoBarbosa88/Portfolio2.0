@@ -40,7 +40,7 @@ function App() {
             Tiago Barbosa
           </C.TextName>
           <div className='box-textAnimation'>
-            <C.TextAnimation>Desenvolvedor Front-End !</C.TextAnimation>
+            <C.TextAnimation>Desenvolvedor Front-End </C.TextAnimation>
           </div>
 
           <C.Text width='130px' size='18px'>

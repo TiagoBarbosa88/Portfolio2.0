@@ -148,8 +148,9 @@ export const Footer = styled.footer`
   width: 100%;
   padding: 20px;
   height: 120px;
-  background-color: #201f37;
+  background-color: #6cb4df;
   transition: 0.9s;
+
 `
 
 export const Text = styled.p`
@@ -187,7 +188,7 @@ export const IconLinkedin = styled(FaLinkedin)`
   margin-right: 25px;
 
   &:hover {
-    opacity: 0.9;
+    opacity: 0.7;
   }
 `
 
@@ -198,7 +199,7 @@ export const IconGit = styled(BsGithub)`
   color: #ececec;
 
   &:hover {
-    opacity: 0.9;
+    opacity: 0.7;
   }
 `
 
@@ -208,7 +209,7 @@ export const IconEmail = styled(MdAlternateEmail)`
   color: #ececec;
 
   &:hover {
-    opacity: 0.9;
+    opacity: 0.7;
   }
 `
 
@@ -274,18 +275,18 @@ export const ButtonCv = styled.a`
   justify-content: center;
   gap: 7px;
   padding: 9px;
-  background-color: green;
+  background-color: #6cb4df;
   border-radius: 2px;
   border: none;
   cursor: pointer;
   text-decoration: none;
 
   &:hover {
-    opacity: 0.9;
+    opacity: 0.5;
   }
 
   &:active {
-    opacity: 0.8;
+    opacity: 0.5;
   }
 `
 

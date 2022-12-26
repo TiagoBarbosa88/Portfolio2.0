@@ -9,7 +9,7 @@ export const Container = styled.div`
   align-items: center;
 
   .rec.rec-arrow {
-    background: #201f37;
+    background: #2f414d;
 
     color: #fff;
     border: none;
@@ -21,7 +21,7 @@ export const Container = styled.div`
   }
   .rec.rec-arrow:disabled {
     border: none;
-    background-color: #bebebf;
+    background-color: #2f414d;
     color: #efefef;
   }
 
@@ -49,7 +49,7 @@ export const ContainerItems = styled.div`
   justify-content: space-between;
   border-radius: 34px;
   transition: 0.2s;
-  background-color: #201f37;
+  background-color: #2f414d;
   box-shadow: 0 0 4px 1px rgba(0, 0, 0, 0.2);
 
   .description {

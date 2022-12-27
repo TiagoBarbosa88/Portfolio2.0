@@ -148,7 +148,7 @@ export const Footer = styled.footer`
   width: 100%;
   padding: 20px;
   height: 120px;
-  background-color: #5fa8d2;
+  background-color: #363636;
   transition: 0.9s;
 
 `

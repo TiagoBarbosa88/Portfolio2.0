@@ -85,7 +85,7 @@ function App() {
       <sapn id='formulario'></sapn>
       <ContactForm />
       <C.Footer>
-        <C.P>Portfólio - Tiago Barbosa</C.P>
+        <C.P>Portfólio - Tiago Barbosa ® </C.P>
         <C.LinksFooter>
           <a
             className='icon'
